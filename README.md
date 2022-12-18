@@ -4,5 +4,4 @@ Private repository for @ievgeniiaabdulina
 
 Projects:
 
-- [project link would be here...]()
-- [project link would be here...]()
+- [JavaScript classes and inheritance](https://github.com/IevgeniiaAbdulina/rsschool-inheritance/tree/inheritance)
