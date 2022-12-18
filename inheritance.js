@@ -1,0 +1,1 @@
+document.getElementById('app').innerText = 'Inheritance Project 2022';
